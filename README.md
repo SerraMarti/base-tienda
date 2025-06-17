@@ -1,2 +1,0 @@
-# base-tienda
-By Martí

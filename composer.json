@@ -1,0 +1,21 @@
+{
+    "name": "base/tienda-online",
+    "description": "creacion de una tienda online",
+    "type": "project",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "Marti Serra Riera",
+            "email": "serra.mriera@gmail.com"
+        }
+       
+    ],
+    "require": {
+        
+    },
+    "autoload": {
+        "psr-4": {
+            "base\\":"src/"
+        }
+    }
+}
